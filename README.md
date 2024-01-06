@@ -25,11 +25,7 @@ The system has following main functional flows:
 
 ### Demo
 
-<p align="center" style="text-align: center;">
-
 [<img src="https://img.youtube.com/vi/XhBT5CgspXs/maxresdefault.jpg" style="
-      width:75%;
-      display: block;
-      margin: 0 auto;">](https://youtu.be/XhBT5CgspXs)
-
-</p>
+   width: 75%;
+   display: block;
+   margin: 0 auto;">](https://youtu.be/XhBT5CgspXs)

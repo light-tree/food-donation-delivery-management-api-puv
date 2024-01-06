@@ -26,7 +26,7 @@ The system has following main functional flows:
 ### Demo
 
 <div align="center">
-   <a href="https://youtu.be/XhBT5CgspXs" target="_blank">
+   <a href="https://youtu.be/XhBT5CgspXs" target="_blank" rel="noopener noreferrer" onclick="window.open('https://youtu.be/XhBT5CgspXs'); return false;">
       <img src="https://img.youtube.com/vi/XhBT5CgspXs/maxresdefault.jpg" style="
          width: 75%;
          display: block;

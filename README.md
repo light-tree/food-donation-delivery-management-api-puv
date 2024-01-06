@@ -18,7 +18,7 @@ The system has following main functional flows:
 ### Technologies
 
 <p align="center">
-<img src="" style="
+<img src="https://raw.githubusercontent.com/light-tree/food-donation-delivery-management-api-puv/main/images/techs.png" style="
 	width:75%;
 	display: block;">
 </p>

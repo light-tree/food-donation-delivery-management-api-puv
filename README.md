@@ -25,11 +25,11 @@ The system has following main functional flows:
 
 ### Demo
 
-<a href="https://youtu.be/XhBT5CgspXs" target="_blank">
-   <div align="center">
+<div align="center">
+   <a href="https://youtu.be/XhBT5CgspXs" target="_blank">
       <img src="https://img.youtube.com/vi/XhBT5CgspXs/maxresdefault.jpg" style="
          width: 75%;
          display: block;
          margin: 0 auto;">
-   </div>
-</a>
+   </a>
+</div>
